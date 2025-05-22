@@ -1,2 +1,2 @@
-# zhuzhu.github.io
-好玩的游戏
+# miam-boom
+Émilia's game
